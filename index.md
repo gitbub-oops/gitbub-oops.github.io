@@ -6,8 +6,8 @@ I made these videos on YouTube: [YouTube]
 Please watch them for the things I do. :smile:
 
 ### Video links:
-https://www.youtube.com/channel/UC8_gx1TFCKItOTEBwl0hXqQ/featured
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Watch them and see what you can do!
 
 ```markdown
 Syntax highlighted code block
