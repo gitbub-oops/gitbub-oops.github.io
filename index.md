@@ -1,6 +1,5 @@
-## Welcome to Gitbub's page! Amazing, Fanastic, Full of oops!
+** Welcome to Gitbub's page! Amazing, Fanastic, Full of oops!
 
-You can use the [editor on GitHub](https://github.com/gitbub-oops/gitbub-oops.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
