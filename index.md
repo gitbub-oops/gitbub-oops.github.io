@@ -4,8 +4,9 @@ Hi there! I'm so happy you're here. Here there are stuff about: Books, Drawing, 
 (Ten ways of saying oops, in diffrent octives and voices!)
 I made these videos on YouTube: [YouTube]
 Please watch them for the things I do. :smile:
-### Markdown
 
+### Video links:
+https://www.youtube.com/channel/UC8_gx1TFCKItOTEBwl0hXqQ/featured
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
