@@ -1,8 +1,9 @@
-** Welcome to Gitbub's page! Amazing, Fanastic, Full of oops!
+## Welcome to Gitbub's page! Amazing, Fanastic, Full of oops!
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Hi there! I'm so happy you're here. Here there are stuff about: Books, Drawing, and Oops.
+(Ten ways of saying oops, in diffrent octives and voices!)
+I made these videos on YouTube: [YouTube]
+Please watch them for the things I do. :smile:
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
